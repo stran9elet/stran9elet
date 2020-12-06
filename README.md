@@ -8,6 +8,6 @@
 - 💬 Ask me about... Anything
 - 📫 How to reach me:... parvgakhar01@gmail.com
 - 😄 Pronouns:... He/Him
-- ⚡ Fun fact:... ~~I'm Awesome~~...
+- ⚡ Fun fact:... I'm ~~Awesome~~...
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=footer)
