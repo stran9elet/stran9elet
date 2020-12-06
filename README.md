@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi%20There👋&fontSize=80&animation=fadeIn&fontAlignY=35&fontAlign=53)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi%20There!👋&fontSize=80&animation=fadeIn&fontAlignY=35&fontAlign=53)
 
 ## I'm Parv Gakhar, currently doing my engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
 <!-- 🔭 I’m currently working on ...--> 
