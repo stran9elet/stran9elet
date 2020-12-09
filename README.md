@@ -26,9 +26,9 @@
 <details>
   <summary>More info about me</summary>
  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sw-257.sw-257)
-
+ 
 <br/><br/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sw-257.sw-257)
 [![Parv's github stats](https://github-readme-stats.vercel.app/api?username=sw-257&show_icons=true&theme=vue)](https://github.com/sw-257/github-readme-stats)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw-257)](https://github.com/sw-257/github-readme-stats)-->
 </details>
