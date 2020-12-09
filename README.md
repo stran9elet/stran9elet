@@ -23,8 +23,9 @@
 [instagram]:https://www.instagram.com/parv.gakhar/
 [linkedin]: https://www.linkedin.com/in/parv-gakhar/
 
+<br/>
 <details>
-<br/><br/>
+<br/>
   
 <summary>More info about me</summary>
  
