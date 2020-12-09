@@ -24,7 +24,7 @@
 [linkedin]: https://www.linkedin.com/in/parv-gakhar/
 
 <details>
-<br/>
+<br/><br/>
   
 <summary>More info about me</summary>
  
