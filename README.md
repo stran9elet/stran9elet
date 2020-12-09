@@ -30,6 +30,6 @@
 <br/><br/>
 [![Parv's github stats](https://github-readme-stats.vercel.app/api?username=sw-257&show_icons=true&theme=vue)](https://github.com/sw-257/github-readme-stats)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw-257)](https://github.com/sw-257/github-readme-stats)-->
-<details>
+</details>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=footer)
