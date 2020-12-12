@@ -17,11 +17,13 @@
 
 ### Languages and Tools:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>&nbsp;
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;
+<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>&nbsp;
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>&nbsp;
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>&nbsp;
 
 <br/>
 
