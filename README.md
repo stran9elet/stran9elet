@@ -35,7 +35,7 @@
 
 <br/>
 
-[instagram]:https://www.instagram.com/parv.gakhar/
+[instagram]:https://www.instagram.com/parv_gakhar/
 [linkedin]:https://www.linkedin.com/in/parv-gakhar/
 [Parv Gakhar's DEV Profile]:https://dev.to/sw257
 [Discord]:https://discordapp.com/users/9318/
