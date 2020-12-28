@@ -19,10 +19,12 @@
 
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>&nbsp;
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>&nbsp;
-<code><img height="30" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667"></code>&nbsp;
+<code><img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"></code>&nbsp;
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>&nbsp;
+<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>&nbsp;
+<code><img height="30" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>&nbsp;
+
 
 <br/>
 
