@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi%20There!👋&fontSize=80&animation=blink&fontAlignY=35&fontAlign=53)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20There!👋&fontSize=80&animation=blink&fontAlignY=35&fontAlign=53)
 
 <img align="right" src=https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif width=180/>
 
@@ -60,4 +60,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
