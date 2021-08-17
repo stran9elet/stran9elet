@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20There!👋&fontSize=80&animation=blink&fontAlignY=35&fontAlign=53)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Hey%20there!👋&fontSize=50&animation=blink&fontAlignY=34&fontAlign=52)
 
 <img align="right" src=https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif width=180/>
 
-## I'm Parv Gakhar, currently doing my engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
+## I'm Parv Gakhar, currently doing engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
 
 <!-- 🔭 I’m currently working on ...--> 
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
-- 🌱 I’m currently learning... Firebase
+- 🌱 I’m currently learning... Data Science and ML
 - 💬 Ask me about... Anything
 - 📫 How to reach me:... parvgakhar01@gmail.com
 - 😄 Pronouns:... He/Him
@@ -18,12 +18,13 @@
 ### Languages and Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>&nbsp;
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>&nbsp;
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>&nbsp;
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>&nbsp;
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code>&nbsp;
 <code><img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"></code>&nbsp;
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>&nbsp;
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>&nbsp;
-<code><img height="30" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>&nbsp;
+
 
 
 <br/>
@@ -60,4 +61,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=footer)
