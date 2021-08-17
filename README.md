@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Hey%20there!👋&fontSize=50&animation=blink&fontAlignY=34&fontAlign=52)
 
-<img align="right" src=https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif width=180/>
-
 ## I'm Parv Gakhar, currently doing engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
+<br/>
+
+<img align="right" src=https://media.giphy.com/media/9S3FMEilFWMzOOxhYu/giphy.gif width=420/>
 
 <!-- 🔭 I’m currently working on ...--> 
 <!--- 👯 I’m looking to collaborate on ...-->
@@ -13,7 +14,7 @@
 - 😄 Pronouns:... He/Him
 - ⚡ Fun fact:... I'm ~~Awesome~~...
 
----
+<br/>
 
 ### Languages and Tools:
 
@@ -55,7 +56,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sw-257.sw-257)
 <br/>
-[![Parv's github stats](https://github-readme-stats.vercel.app/api?username=sw-257&show_icons=true&theme=vue)](https://github.com/sw-257/github-readme-stats)
+[![Parv's github stats](https://github-readme-stats.vercel.app/api?username=sw-257&show_icons=true&theme=dark)](https://github.com/sw-257/github-readme-stats)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw-257)](https://github.com/sw-257/github-readme-stats)-->
 </details>
 
