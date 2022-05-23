@@ -3,8 +3,8 @@
 ## I'm Parv Gakhar, currently doing engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
 <br/>
 
-<img align="right" src=https://media.giphy.com/media/9S3FMEilFWMzOOxhYu/giphy.gif width=420/>
-
+<!-- <img align="right" src=https://media.giphy.com/media/9S3FMEilFWMzOOxhYu/giphy.gif width=420/>
+ -->
 
 <!-- 🔭 I’m currently working on ...--> 
 <!--- 👯 I’m looking to collaborate on ...-->
