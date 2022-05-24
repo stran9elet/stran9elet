@@ -3,12 +3,46 @@
 ## I'm Parv Gakhar, currently doing engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
 <br/>
 
-<!-- <img align="right" src=https://media.giphy.com/media/9S3FMEilFWMzOOxhYu/giphy.gif width=420/>
+<!-- <img align="right" src="https://media.giphy.com/media/9S3FMEilFWMzOOxhYu/giphy.gif" width="420">
  -->
 
-<!-- 🔭 I’m currently working on ...--> 
-<!--- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ...-->
+
+<table border="0">
+ <tr>
+  <td>
+   <ul>
+    <li>🌱 I’m currently learning... Data Science and ML</li>
+    <li>💬 Ask me about... Anything</li>
+    <li>📫 How to reach me:... parvgakhar01@gmail.com</li>
+    <li>😄 Pronouns:... He/Him</li>
+    <li>⚡ Fun fact:... I'm ~~Awesome~~...</li>
+   </ul>
+   <br/>
+   <h3>Languages and Tools:<h3>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">   </code>&nbsp;
+   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>&nbsp;
+   <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>&nbsp;
+   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>&nbsp;
+   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code>&nbsp;
+   <code><img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"></code>&nbsp;
+   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>&nbsp;
+   <br/>
+   <h3> Add me up on:</h3>
+   <a href="https://www.linkedin.com/in/parv-gakhar/"><img align="left" alt="ParvGakher | LinkedIn" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" /></a>
+   <a href="https://www.instagram.com/parv_gakhar/"><img align="left" alt="ParvGakher | Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/></a>
+   <a href="https://t.me/ShockWave257"><img align="left" alt="ParvGakher | Telegram" width="22px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" /></a>
+   <a href="https://discordapp.com/users/9318/"><img align="left" alt="ParvGakher | Discord" width="22px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" /></a>
+  </td>
+  <td>
+   <img src="https://media.giphy.com/media/9S3FMEilFWMzOOxhYu/giphy.gif" width="414" height="700">
+  </td>
+ </tr>
+</table>
+
+<!--
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
 - 🌱 I’m currently learning... Data Science and ML
 - 💬 Ask me about... Anything
 - 📫 How to reach me:... parvgakhar01@gmail.com
@@ -16,6 +50,8 @@
 - ⚡ Fun fact:... I'm ~~Awesome~~...
 
 <br/>
+
+
 
 ### Languages and Tools:
 
@@ -26,7 +62,6 @@
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code>&nbsp;
 <code><img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"></code>&nbsp;
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>&nbsp;
-
 
 
 <br/>
@@ -45,7 +80,9 @@
 [Parv Gakhar's DEV Profile]:https://dev.to/sw257
 [Discord]:https://discordapp.com/users/9318/
 
-
+ -->
+ 
+ 
 
 ---
 
@@ -57,8 +94,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sw-257.sw-257)
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw-257)](https://github.com/sw-257/github-readme-stats)
+<br>
 [![Parv's github stats](https://github-readme-stats.vercel.app/api?username=sw-257&show_icons=true&theme=dark)](https://github.com/sw-257/github-readme-stats)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw-257)](https://github.com/sw-257/github-readme-stats)-->
 </details>
 
 ---
