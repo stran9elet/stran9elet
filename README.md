@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Hey%20there!👋&fontSize=50&animation=blink&fontAlignY=34&fontAlign=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Hey%20there!&fontSize=50&animation=blink&fontAlignY=34&fontAlign=52)
 
 ## I'm Parv Gakhar, currently doing engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
 <br/>
@@ -34,7 +34,7 @@
    <a href="https://discordapp.com/users/9318/"><img align="left" alt="ParvGakher | Discord" width="22px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" /></a>
   </td>
   <td>
-   <img src="https://media.giphy.com/media/9S3FMEilFWMzOOxhYu/giphy.gif" width="414" height="700">
+   <img src="https://media.giphy.com/media/9S3FMEilFWMzOOxhYu/giphy.gif" width="414" height="625">
   </td>
  </tr>
 </table>
