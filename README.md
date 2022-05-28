@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff1111&height=200&section=header&text=Hey%20there!&fontSize=50&animation=blink&fontAlignY=34&fontAlign=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=200&section=header&text=Hey%20there!&fontSize=50&animation=blink&fontAlignY=34&fontAlign=52)
 
 ## I'm Parv Gakhar, currently doing engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
 <br/>
@@ -101,4 +101,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=ff1111&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=200&section=footer)
