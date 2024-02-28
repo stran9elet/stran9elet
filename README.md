@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5afadd&height=200&section=header&fontSize=50&animation=blink&fontAlignY=34&fontAlign=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a3ffee&height=200&section=header&fontSize=50&animation=blink&fontAlignY=34&fontAlign=52)
 
 ## Hi! I'm Parv, currently doing engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
 <br/>
 
 
-<table border="0">
- <tr>
-  <td>
+<!-- <table border="0"> -->
+ <!-- <tr> -->
+ <!--  <td> -->
    <ul>
     <li>🌱 I’m currently learning... DS/ML</li>
     <li>💬 Ask me about... Anything</li>
@@ -42,18 +42,15 @@
     
    <h3> Add me up on:</h3>
    <a href="https://www.linkedin.com/in/parv-gakhar/"><img align="left" alt="ParvGakher | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" /></a>
-   <a href="https://www.instagram.com/_strange_let__/"><img align="left" alt="ParvGakher | Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/></a>
+   <a href="https://www.instagram.com/_strange_let__/"><img align="left" alt="ParvGakher | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/></a>
    <a href="https://t.me/ShockWave257"><img align="left" alt="ParvGakher | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" /></a>
    <a href="https://discordapp.com/users/9318/"><img align="left" alt="ParvGakher | Discord" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" /></a>
-  </td>
+ <!-- </td>
   <td>
    <img src="https://media.giphy.com/media/9S3FMEilFWMzOOxhYu/giphy.gif" width="414" height="625">
   </td>
  </tr>
-</table>
+</table> -->
 
 
- 
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=5afadd&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=a3ffee&height=200&section=footer)
