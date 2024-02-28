@@ -1,25 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=200&section=header&text=Hey%20there!&fontSize=50&animation=blink&fontAlignY=34&fontAlign=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=23fad2&height=200&section=header&fontSize=50&animation=blink&fontAlignY=34&fontAlign=52)
 
-## I'm Parv Gakhar, currently doing engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
+## Hi! I'm Parv, currently doing engineering from<br/>Dr.B R Ambedkar National Institute of Technology, Jalandhar 
 <br/>
-
-<!-- <img align="right" src="https://media.giphy.com/media/9S3FMEilFWMzOOxhYu/giphy.gif" width="420">
- -->
 
 
 <table border="0">
  <tr>
   <td>
    <ul>
-    <li>🌱 I’m currently learning... Data Science and ML</li>
+    <li>🌱 I’m currently learning... DS/ML</li>
     <li>💬 Ask me about... Anything</li>
     <li>📫 How to reach me:... parvgakhar01@gmail.com</li>
     <li>😄 Pronouns:... He/Him</li>
-    <li>⚡ Fun fact:... I'm ~~Awesome~~...</li>
    </ul>
    <br/>
    <h3>Languages and Tools:<h3>
-   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">   </code>&nbsp;
+   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></code>&nbsp;
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>&nbsp;
    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>&nbsp;
    <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>&nbsp;
    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>&nbsp;
@@ -101,4 +98,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=23fad2&height=200&section=footer)
